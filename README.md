@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo Kodluyoruz.org Python egitiminde olusturdugum ilk repo. Icerisinde bir adet README.md dosyasi ve index.html dosyasi barindiriyor.
+Bu repo [Kodluyoruz](https://www.patika.dev) Python egitiminde olusturdugum ilk repo. Icerisinde bir adet README.md dosyasi ve index.html dosyasi barindiriyor.
 
 
 ## Installation
